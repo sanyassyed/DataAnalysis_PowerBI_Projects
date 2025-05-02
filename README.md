@@ -41,12 +41,3 @@ Helps HR teams monitor hiring quality, employee retention, and separation patter
 Power BI, Power Query, DAX
 
 ---
-
-## 📁 Download `.pbix` Files
-
-You can download the project files from this repo to explore or modify in **Power BI Desktop**:
-
-- [Vanarsdel_Manufacturer_Analysis.pbix](./Vanarsdel_Manufacturer_Analysis.pbix)
-- [Employee_Hiring_and_History.pbix](./Employee_Hiring_and_History.pbix)
-
----
