@@ -9,7 +9,9 @@ All dashboards are hosted via **Power BI Service (Publish to Web)** for live int
 
 ## 🔧 1. Vanarsdel Ltd. - Manufacturer Analysis Dashboard
 
-### 🔗 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/40ce482c-003a-4825-9b01-05959da4fb85/9d86cac61335bcd98854?experience=power-bi)
+### 🔗 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/40ce482c-003a-4825-9b01-05959da4fb85/9d86cac61335bcd98854?experience=power-bi) (Not Public)
+
+![Dashboard Screenshot](./VanArsdalDashboardScreenshot.png)
 
 This dashboard provides a deep-dive analysis of Vanarsdel Ltd’s manufacturing performance.  
 It helps stakeholders monitor profitability, product trends, and regional performance through intuitive visuals.
@@ -27,7 +29,9 @@ Power BI, DAX, Power Query
 
 ## 🧑‍💼 2. Employee Hiring and History Dashboard
 
-### 🔗 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/933559ba-a1af-4587-8ff2-8a2ecf73e9bd/ReportSection2?experience=power-bi)
+### 🔗 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/933559ba-a1af-4587-8ff2-8a2ecf73e9bd/ReportSection2?experience=power-bi) (Not Public)
+
+![Dashboard Screenshot](./EmployeeHiringScreenshot.png)
 
 An HR-focused dashboard that tracks hiring trends and employee lifecycle events.  
 Helps HR teams monitor hiring quality, employee retention, and separation patterns.
