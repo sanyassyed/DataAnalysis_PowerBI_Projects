@@ -31,7 +31,7 @@ Power BI, DAX, Power Query
 
 ### 🔗 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/933559ba-a1af-4587-8ff2-8a2ecf73e9bd/ReportSection2?experience=power-bi) (Not Public)
 
-![Dashboard Screenshot](./EmployeeHiringScreenshot.png)
+![Dashboard Screenshot](./HrDashboardScreenshot.png)
 
 An HR-focused dashboard that tracks hiring trends and employee lifecycle events.  
 Helps HR teams monitor hiring quality, employee retention, and separation patterns.
